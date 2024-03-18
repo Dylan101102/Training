@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Chicken tenders.
 Ice cream.
 Pizza.
+=======
+Forrest Gump.
+Grown Ups.
+Shrek.
+>>>>>>> movies
